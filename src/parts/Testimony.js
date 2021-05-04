@@ -45,7 +45,7 @@ export default function Testimony({ data }) {
                             href={`/testimonial/${data._id}`}
                         >
                             Read Their Story
-              </Button>
+                        </Button>
                     </div>
                 </div>
             </div>
